@@ -1,3 +1,6 @@
+This repo contains the exercises for WireMock with my implementation. All kudos go to basdijkstra, you can check
+his work @https://github.com/basdijkstra
+
 WireMock workshop
 ==================
 For those of you looking to gain some experience working with [WireMock](http://wiremock.org/), here are all the materials from a workshop I've created and delivered multiple times to good reviews. Feel free to use, share and adapt these materials as you see fit.
